@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InjectionTool.Core", "InjectionTool.Core\InjectionTool.Core.csproj", "{EDB15BF7-F4CC-4EF4-BD95-15EEDF454CB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InjectionTool.Core", "InjectionTool.Core\InjectionTool.Core.csproj", "{EDB15BF7-F4CC-4EF4-BD95-15EEDF454CB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,9 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EDB15BF7-F4CC-4EF4-BD95-15EEDF454CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +27,11 @@ Global
 		{EDB15BF7-F4CC-4EF4-BD95-15EEDF454CB4}.Release|x64.Build.0 = Release|Any CPU
 		{EDB15BF7-F4CC-4EF4-BD95-15EEDF454CB4}.Release|x86.ActiveCfg = Release|Any CPU
 		{EDB15BF7-F4CC-4EF4-BD95-15EEDF454CB4}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C54E526-8527-4027-A2E9-D8A9739218A3}
 	EndGlobalSection
 EndGlobal

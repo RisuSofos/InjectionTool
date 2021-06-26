@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace InjectionTool.Core {
+namespace InjectionTool.Library {
 	public class InjectionWrapper {
 
 		#region Privlages

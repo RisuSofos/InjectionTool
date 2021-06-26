@@ -1,5 +1,5 @@
 ﻿using System;
-using InjectionTool.Library;
+using InjectionTool.CoreLibrary;
 
 namespace InjectionTool.Client {
 	internal class Program {

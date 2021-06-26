@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\InjectionTool.Library\InjectionTool.Library.csproj" />
+    <ProjectReference Include="..\InjectionTool.CoreLibrary\InjectionTool.CoreLibrary.csproj" />
   </ItemGroup>
 
 </Project>
